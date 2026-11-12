@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+urllib3
+python-dateutil
+folium
+streamlit-folium
+plotly
+openpyxl
